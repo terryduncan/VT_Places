@@ -40,7 +40,7 @@
     }
 ]
 }
- {
+     {
       "type": "Feature",
       "properties": {
         "marker-color": "#ff0080",
@@ -56,4 +56,3 @@
           44.35293074154955
         ]
       }
-    }
