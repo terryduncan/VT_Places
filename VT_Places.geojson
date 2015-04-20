@@ -37,6 +37,23 @@
           44.1272782929023
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080ff",
+        "marker-size": "medium",
+        "marker-symbol": "skiing",
+        "Name": "Sugarbush Ski Resort: Lincoln Peak",
+        "Description": "Lincoln Peak is one of the two slopes affiliated with Sugarbush Resort. There are a large variety of trails and lifts for all ski and snowboard abilities!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.89076805114746,
+          44.137192631805526
+        ]
+      }
     }
 ]
 }
