@@ -87,6 +87,23 @@
           43.939593975367174
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080ff",
+        "marker-size": "medium",
+        "marker-symbol": "skiing",
+        "Name": "Mad River Glen",
+        "Description": "Home to one of the oldest chair lifts in the state, Mad River Glen is a smaller local ski slope with great, challenging trails. No snowboards allowed., however!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9178476333618,
+          44.20251245815855
+        ]
+      }
     }
 ]
 }
