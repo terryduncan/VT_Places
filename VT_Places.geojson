@@ -37,6 +37,24 @@
           44.1272782929023
         ]
       }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0080",
+        "marker-size": "medium",
+        "marker-symbol": "ice cream",
+        "Name": "Ben & Jerry's",
+        "Description": "iconic, creative ice cream parlor chain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.74017810821533,
+          44.35293074154955
+        ]
+      }
     }
 ]
 }
