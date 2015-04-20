@@ -71,6 +71,22 @@
           44.177895194309805
         ]
       }
+    }, 
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080ff",
+        "marker-size": "medium",
+        "marker-symbol": "skiing",
+        "Name": "Middlebury College Snow Bowl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.95827388763428,
+          43.939593975367174
+        ]
+      }
     }
 ]
 }
