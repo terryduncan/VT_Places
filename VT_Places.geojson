@@ -104,6 +104,24 @@
           44.20251245815855
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080ff",
+        "marker-size": "medium",
+        "marker-symbol": "skiing",
+        "Name": "Rikert Cross Country Skiing Center",
+        "Description": "Great cross country skiing through many miles of wooded trails."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.99230575561523,
+          43.95345196430687
+        ]
+      }
     }
+
 ]
 }
