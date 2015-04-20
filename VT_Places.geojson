@@ -54,6 +54,23 @@
           44.137192631805526
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080ff",
+        "marker-size": "medium",
+        "marker-symbol": "skiing",
+        "Name": "Sugarbush Ski Resort: Mount Ellen",
+        "Description": "One of the two ski slopes in the Sugarbush Resort. A great variety of trails for all skill levels."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.89986610412598,
+          44.177895194309805
+        ]
+      }
     }
 ]
 }
